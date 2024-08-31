@@ -1,6 +1,6 @@
 # README
 
-Front End Ödevlet deposuna hoş geldiniz!
+Front End Ödevler deposuna hoş geldiniz!
 
 ## Açıklama
 
